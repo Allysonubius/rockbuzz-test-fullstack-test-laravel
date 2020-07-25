@@ -1,5 +1,7 @@
 <?php
 
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Routing\Route;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
